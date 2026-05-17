@@ -1,6 +1,9 @@
 # alpflo
 
-Open-source MCP servers for financial data infrastructure.  
+Open-source MCP servers for Swiss financial data infrastructure.
 Built in Switzerland. 🏔️
 
-🚧 First release coming soon — openwealth-mcp
+**Next:** openwealth-mcp — an MCP server for the OpenWealth API standard.
+
+Maintained by [Nariman Maddah](https://linkedin.com/in/narimanmaddah).
+Follow this org to be notified when the first release ships.
